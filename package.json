@@ -13,10 +13,10 @@
     "homepage": "https://github.com/Yeung9203/my-personal-website.git"
   },
   "scripts": {
-    "start": "react start",
-    "build": "react build",
-    "test": "react test",
-    "eject": "react eject"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
